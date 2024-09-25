@@ -1,0 +1,4863 @@
+####################################
+# Uniscan project                  #
+# http://uniscan.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 3:49:57
+===================================================================================================
+| Domain: http://10.10.178.136/cybertech/
+| Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+| IP: 10.10.178.136
+===================================================================================================
+===================================================================================================
+Scan end date: 18-8-2023 3:49:57
+
+
+
+HTML report saved in: report/10.10.178.136.html
+####################################
+# Uniscan project                  #
+# http://uniscan.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 3:50:49
+===================================================================================================
+| Domain: http://10.10.178.136/cybertech/
+| Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+| IP: 10.10.178.136
+===================================================================================================
+|
+| Directory check:
+===================================================================================================
+|                                                                                                   
+| File check:
+===================================================================================================
+|
+| Check robots.txt:
+|
+| Check sitemap.xml:
+===================================================================================================
+|
+| Crawler Started:
+| Plugin name: FCKeditor upload test v.1 Loaded.
+| Plugin name: External Host Detect v.1.2 Loaded.
+| Plugin name: phpinfo() Disclosure v.1 Loaded.
+| Plugin name: E-mail Detection v.1.1 Loaded.
+| Plugin name: Upload Form Detect v.1.1 Loaded.
+| Plugin name: Code Disclosure v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Web Backdoor Disclosure v.1.1 Loaded.
+| [+] Crawling finished, 6 URL's found!
+|
+| FCKeditor File Upload:
+|
+| External hosts:
+| [+] External Host Found: http://httpd.apache.org
+| [+] External Host Found: https://ajax.googleapis.com
+|
+| PHPinfo() Disclosure:
+|
+| E-mails:
+| [+] E-mail Found: humbedooh@apache.org
+| [+] E-mail Found: kevinh@kevcom.com
+| [+] E-mail Found: mike@hyperreal.org
+|
+| File Upload Forms:
+|
+| Source Code Disclosure:
+|
+| Timthumb:
+|
+| Web Backdoors:
+|
+| Ignored Files: 
+===================================================================================================
+| Dynamic tests:
+| Plugin name: Learning New Directories v.1.2 Loaded.
+| Plugin name: FCKedior tests v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Find Backup Files v.1.2 Loaded.
+| Plugin name: Blind SQL-injection tests v.1.3 Loaded.
+| Plugin name: Local File Include tests v.1.1 Loaded.
+| Plugin name: PHP CGI Argument Injection v.1.1 Loaded.
+| Plugin name: Remote Command Execution tests v.1.1 Loaded.
+| Plugin name: Remote File Include tests v.1.2 Loaded.
+| Plugin name: SQL-injection tests v.1.2 Loaded.
+| Plugin name: Cross-Site Scripting tests v.1.2 Loaded.
+| Plugin name: Web Shell Finder v.1.3 Loaded.
+| [+] 0 New directories added
+|                                                                                                   
+|                                                                                                   
+| FCKeditor tests:
+|                                                                                                   
+|                                                                                                   
+| Timthumb < 1.33 vulnerability:
+|                                                                                                   
+|                                                                                                   
+| Backup Files:
+|                                                                                                   
+|                                                                                                   
+| Blind SQL Injection:
+|                                                                                                   
+|                                                                                                   
+| Local File Include:
+|                                                                                                   
+|                                                                                                   
+| PHP CGI Argument Injection:
+|                                                                                                   
+|                                                                                                   
+| Remote Command Execution:
+|                                                                                                   
+|                                                                                                   
+| Remote File Include:
+|                                                                                                   
+|                                                                                                   
+| SQL Injection:
+| [+] Vul [SQL-i] http://10.10.178.136/authenticate.php               
+| Post data: &username=123'&password=123               
+| [+] Vul [SQL-i] http://10.10.178.136/authenticate.php               
+| Post data: &username=123&password=123'               
+| [+] Vul [SQL-i] http://10.10.178.136/register.php               
+| Post data: &email=123'&username=123&password=123               
+| [+] Vul [SQL-i] http://10.10.178.136/register.php               
+| Post data: &email=123&username=123'&password=123               
+| [+] Vul [SQL-i] http://10.10.178.136/register.php               
+| Post data: &email=123&username=123&password=123'               
+|                                                                                                   
+|                                                                                                   
+| Cross-Site Scripting (XSS):
+|                                                                                                   
+|                                                                                                   
+| Web Shell Finder:
+===================================================================================================
+| Static tests:
+| Plugin name: Local File Include tests v.1.1 Loaded.
+| Plugin name: Remote Command Execution tests v.1.1 Loaded.
+| Plugin name: Remote File Include tests v.1.1 Loaded.
+|                                                                                                   
+|                                                                                                   
+| Local File Include:
+|                                                                                                   
+|                                                                                                   
+| Remote Command Execution:
+|                                                                                                   
+|                                                                                                   
+| Remote File Include:
+===================================================================================================
+Scan end date: 18-8-2023 3:53:1
+
+
+
+HTML report saved in: report/10.10.178.136.html
+####################################
+# Uniscan project                  #
+# http://uniscan.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 3:59:29
+===================================================================================================
+| Domain: http://10.10.178.136/cybertech/
+| Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+| IP: 10.10.178.136
+===================================================================================================
+|
+| Directory check:
+####################################
+# Uniscan project                  #
+# http://uniscan.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 4:4:36
+===================================================================================================
+| Domain: http://10.10.178.136/cybertech/
+| Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+| IP: 10.10.178.136
+===================================================================================================
+|
+| Directory check:
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 4:46:17
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 157.240.16.35
+===================================================================================================
+===================================================================================================
+Scan end date: 18-8-2023 4:46:20
+
+
+
+HTML report saved in: report/www.facebook.com.html
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 4:46:39
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 157.240.16.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because http://www.facebook.com/uniscan321/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because http://www.facebook.com/uniscan944/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 4:54:59
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 157.240.23.35
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 5:2:9
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 31.13.79.35
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 5:4:51
+===================================================================================================
+| Domain: http://www.facebook.com-qweds/
+| IP: 
+===================================================================================================
+===================================================================================================
+Scan end date: 18-8-2023 5:4:51
+
+
+
+HTML report saved in: report/www.facebook.com-qweds.html
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 5:6:17
+===================================================================================================
+| Domain: http://www.facebook.com-qweds/
+| IP: 
+===================================================================================================
+===================================================================================================
+Scan end date: 18-8-2023 5:6:23
+
+
+
+HTML report saved in: report/www.facebook.com-qweds.html
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 5:7:16
+===================================================================================================
+| Domain: http://www.facebook.com-qweds/
+| IP: 
+===================================================================================================
+===================================================================================================
+Scan end date: 18-8-2023 5:7:16
+
+
+
+HTML report saved in: report/www.facebook.com-qweds.html
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 5:8:52
+===================================================================================================
+| [*] http://www.facebook.com/-qweds/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 31.13.79.35
+===================================================================================================
+===================================================================================================
+Scan end date: 18-8-2023 5:8:55
+
+
+
+HTML report saved in: report/www.facebook.com.html
+####################################
+#  project                  #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 5:10:49
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 157.240.16.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because http://www.facebook.com/uniscan814/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because http://www.facebook.com/uniscan174/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 23:22:7
+===================================================================================================
+| [*] https://www.facebook.com/ redirected to https://www.facebook.com/
+| [*] New target is: https://www.facebook.com/
+===================================================================================================
+| Domain: https://www.facebook.com/
+| IP: 157.240.16.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because https://www.facebook.com/uniscan737/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because https://www.facebook.com/uniscan283/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+===================================================================================================
+|
+| Crawler Started:
+| Plugin name: FCKeditor upload test v.1 Loaded.
+| Plugin name: External Host Detect v.1.2 Loaded.
+| Plugin name: phpinfo() Disclosure v.1 Loaded.
+| Plugin name: E-mail Detection v.1.1 Loaded.
+| Plugin name: Upload Form Detect v.1.1 Loaded.
+| Plugin name: Code Disclosure v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Web Backdoor Disclosure v.1.1 Loaded.
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 18-8-2023 23:30:8
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 19-8-2023 0:33:32
+===================================================================================================
+| [*] http://www.facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 19-8-2023 2:30:24
+===================================================================================================
+| [*] https://www.facebook.com/ redirected to https://www.facebook.com/
+| [*] New target is: https://www.facebook.com/
+===================================================================================================
+| Domain: https://www.facebook.com/
+| IP: 31.13.79.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because https://www.facebook.com/uniscan980/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because https://www.facebook.com/uniscan868/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+===================================================================================================
+|
+| Crawler Started:
+| Plugin name: FCKeditor upload test v.1 Loaded.
+| Plugin name: External Host Detect v.1.2 Loaded.
+| Plugin name: phpinfo() Disclosure v.1 Loaded.
+| Plugin name: E-mail Detection v.1.1 Loaded.
+| Plugin name: Upload Form Detect v.1.1 Loaded.
+| Plugin name: Code Disclosure v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Web Backdoor Disclosure v.1.1 Loaded.
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 19-8-2023 4:11:41
+===================================================================================================
+| [*] https://www.facebook.com/ redirected to https://www.facebook.com/
+| [*] New target is: https://www.facebook.com/
+===================================================================================================
+| Domain: https://www.facebook.com/
+| IP: 163.70.138.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because https://www.facebook.com/uniscan551/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because https://www.facebook.com/uniscan472/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+===================================================================================================
+|
+| Crawler Started:
+| Plugin name: FCKeditor upload test v.1 Loaded.
+| Plugin name: External Host Detect v.1.2 Loaded.
+| Plugin name: phpinfo() Disclosure v.1 Loaded.
+| Plugin name: E-mail Detection v.1.1 Loaded.
+| Plugin name: Upload Form Detect v.1.1 Loaded.
+| Plugin name: Code Disclosure v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Web Backdoor Disclosure v.1.1 Loaded.
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 19-8-2023 4:22:7
+===================================================================================================
+| Domain: http://10.10.178.136/cybertech/
+| IP: 10.10.178.136
+===================================================================================================
+|
+| Directory check:
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 19-8-2023 4:34:44
+===================================================================================================
+| [*] https://facebook.com/ redirected to https://www.facebook.com/
+| [*] New target is: https://www.facebook.com/
+===================================================================================================
+| Domain: https://www.facebook.com/
+| IP: 157.240.16.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because https://www.facebook.com/uniscan291/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because https://www.facebook.com/uniscan35/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+===================================================================================================
+|
+| Crawler Started:
+| Plugin name: FCKeditor upload test v.1 Loaded.
+| Plugin name: External Host Detect v.1.2 Loaded.
+| Plugin name: phpinfo() Disclosure v.1 Loaded.
+| Plugin name: E-mail Detection v.1.1 Loaded.
+| Plugin name: Upload Form Detect v.1.1 Loaded.
+| Plugin name: Code Disclosure v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Web Backdoor Disclosure v.1.1 Loaded.
+####################################
+#  Jarvis   #
+# http://sentoor.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 23-8-2023 13:8:54
+===================================================================================================
+| [*] http://facebook.com/ redirected to http://www.facebook.com/
+| [*] New target is: http://www.facebook.com/
+===================================================================================================
+| Domain: http://www.facebook.com/
+| IP: 157.240.16.35
+===================================================================================================
+|
+| Directory check:
+| Skipped because http://www.facebook.com/uniscan934/ did not return the code 404
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because http://www.facebook.com/uniscan240/ did not return the code 404
+===================================================================================================
+|
+| Check robots.txt:
+| [+] # Notice: Collection of data on Facebook through automated means is
+| [+] # prohibited unless you have express written permission from Facebook
+| [+] # and may only be conducted for the limited purpose contained in said
+| [+] # permission.
+| [+] # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+| [+] User-agent: Applebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Googlebot-Image
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /map_tile.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /static_map.php
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: msnbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: seznambot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: teoma
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Disallow: /
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Disallow: /ajax/
+| [+] Disallow: /album.php
+| [+] Disallow: /checkpoint/
+| [+] Disallow: /contact_importer/
+| [+] Disallow: /dialog/
+| [+] Disallow: /fbml/ajax/dialog/
+| [+] Disallow: /feeds/
+| [+] Disallow: /file_download.php
+| [+] Disallow: /job_application/
+| [+] Disallow: /l.php
+| [+] Disallow: /moments_app/
+| [+] Disallow: /p.php
+| [+] Disallow: /photos.php
+| [+] Disallow: /plugins/
+| [+] Disallow: /share.php
+| [+] Disallow: /share/
+| [+] Disallow: /sharer.php
+| [+] Disallow: /sharer/
+| [+] Disallow: /tr/
+| [+] Disallow: /tr?
+| [+] Disallow: /x/oauth/
+| [+] 
+| [+] User-agent: Applebot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: baiduspider
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Bingbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: Discordbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: facebookexternalhit
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Googlebot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: ia_archiver
+| [+] Allow: /about/privacy
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /full_data_use_policy
+| [+] Allow: /legal/terms
+| [+] Allow: /policy.php
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: LinkedInBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: msnbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Naverbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Pinterestbot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Screaming Frog SEO Spider
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch
+| [+] 
+| [+] User-agent: seznambot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Slurp
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: teoma
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: TelegramBot
+| [+] Allow: /*/videos/
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] Allow: /watch/?v=*
+| [+] 
+| [+] User-agent: Twitterbot
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yandex
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: Yeti
+| [+] Allow: /ajax/bootloader-endpoint/
+| [+] Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+| [+] Allow: /careers/
+| [+] Allow: /safetycheck/
+| [+] 
+| [+] User-agent: *
+| [+] Disallow: /
+|
+| Check sitemap.xml:
+===================================================================================================
+|
+| Crawler Started:
+| Plugin name: FCKeditor upload test v.1 Loaded.
+| Plugin name: External Host Detect v.1.2 Loaded.
+| Plugin name: phpinfo() Disclosure v.1 Loaded.
+| Plugin name: E-mail Detection v.1.1 Loaded.
+| Plugin name: Upload Form Detect v.1.1 Loaded.
+| Plugin name: Code Disclosure v.1.1 Loaded.
+| Plugin name: Timthumb <= 1.32 vulnerability v.1 Loaded.
+| Plugin name: Web Backdoor Disclosure v.1.1 Loaded.
